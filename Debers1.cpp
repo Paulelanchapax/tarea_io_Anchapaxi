@@ -27,7 +27,7 @@ int main() {
     // Combinamos en un solo unos cout
     
     
-    cout<<endl<<endl;
+    cout<<endl<<endl; //
     
     cout<<"Hola, " <<nombre<<". Esta bacan que tengas "<<edad<<" anios."<<endl;  //uso anios porque la enie no vale.
 
